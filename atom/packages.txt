@@ -1,0 +1,13 @@
+atom-beautify
+linter
+linter-jsonlint
+remote-edit
+terminal-plus
+language-haskell
+ide-haskell-cabal
+haskell-ghc-mod
+autocomplete-haskell
+haskell-ide
+stylish-haskell
+ghc-mod
+hlint
